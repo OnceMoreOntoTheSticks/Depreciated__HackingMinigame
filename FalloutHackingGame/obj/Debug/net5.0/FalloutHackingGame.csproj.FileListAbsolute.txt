@@ -1,0 +1,16 @@
+C:\Users\Ian\source\repos\FalloutHackingGame\bin\Debug\net5.0\FalloutHackingGame.exe
+C:\Users\Ian\source\repos\FalloutHackingGame\bin\Debug\net5.0\FalloutHackingGame.deps.json
+C:\Users\Ian\source\repos\FalloutHackingGame\bin\Debug\net5.0\FalloutHackingGame.runtimeconfig.json
+C:\Users\Ian\source\repos\FalloutHackingGame\bin\Debug\net5.0\FalloutHackingGame.runtimeconfig.dev.json
+C:\Users\Ian\source\repos\FalloutHackingGame\bin\Debug\net5.0\FalloutHackingGame.dll
+C:\Users\Ian\source\repos\FalloutHackingGame\bin\Debug\net5.0\ref\FalloutHackingGame.dll
+C:\Users\Ian\source\repos\FalloutHackingGame\bin\Debug\net5.0\FalloutHackingGame.pdb
+C:\Users\Ian\source\repos\FalloutHackingGame\obj\Debug\net5.0\FalloutHackingGame.csproj.AssemblyReference.cache
+C:\Users\Ian\source\repos\FalloutHackingGame\obj\Debug\net5.0\FalloutHackingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ian\source\repos\FalloutHackingGame\obj\Debug\net5.0\FalloutHackingGame.AssemblyInfoInputs.cache
+C:\Users\Ian\source\repos\FalloutHackingGame\obj\Debug\net5.0\FalloutHackingGame.AssemblyInfo.cs
+C:\Users\Ian\source\repos\FalloutHackingGame\obj\Debug\net5.0\FalloutHackingGame.csproj.CoreCompileInputs.cache
+C:\Users\Ian\source\repos\FalloutHackingGame\obj\Debug\net5.0\FalloutHackingGame.dll
+C:\Users\Ian\source\repos\FalloutHackingGame\obj\Debug\net5.0\ref\FalloutHackingGame.dll
+C:\Users\Ian\source\repos\FalloutHackingGame\obj\Debug\net5.0\FalloutHackingGame.pdb
+C:\Users\Ian\source\repos\FalloutHackingGame\obj\Debug\net5.0\FalloutHackingGame.genruntimeconfig.cache
