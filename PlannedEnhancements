@@ -1,0 +1,9 @@
+The below items are planned enhancements for areas of the application that do not follow best-practice or adhere to proper SOLID principles.
+
+    1) Refactor code to be more future proof:
+	    A) Move 5 default diff levls to DiffLevel class and expose them to the main program.
+	    B) Add customizable variable for number of guesses for each difficulty level.
+	    C) Turn the password class into more of a service based object.
+     
+    2) Add additional commentation and refactor variable naming to follow Hungarian notation.
+    3) Address remaining UserInput edge cases (if still present after refactor)
