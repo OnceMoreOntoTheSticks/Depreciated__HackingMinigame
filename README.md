@@ -1,4 +1,4 @@
-# **Fallout Hack Minigame**
+# **Hacking Minigame**
 
 ### This project is an excercise of mine pulled from the /r/dailyprogrammer page on reddit. It is consistently being worked on and iterated through to make improvements.
 
